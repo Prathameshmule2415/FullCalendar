@@ -1,0 +1,21 @@
+/* 
+::ng-deep .abc {
+    .fc-col-header-cell-cushion
+{
+    color:orange !important;
+}
+} */
+.r
+{
+    width:75%;
+    float: right;
+    /* height:110%;
+    display: inline; */
+  
+}
+.left{
+    display:inline-block;
+	width: 25%;
+	height: 100%;
+
+}
